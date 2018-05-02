@@ -1,0 +1,24 @@
+h6{
+    padding: 0px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
+.navbar{
+  background:#011d1a;
+}
+.coluna-chat{
+  background:#004e45;
+  margin-left: 15px;
+}
+
+.jumbotron{
+  padding: 30px 30px 30px 30px;
+  margin: 0;
+  background: #011d1a
+}
+.img-circle {
+  border-radius: 50%;
+}
+.msg{
+  filter: invert(60%)
+}
